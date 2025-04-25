@@ -1,3 +1,5 @@
+[![MseeP Badge](https://mseep.net/pr/sammcj-mcp-data-extractor-badge.jpg)](https://mseep.ai/app/sammcj-mcp-data-extractor)
+
 # mcp-data-extractor MCP Server
 
 A Model Context Protocol server that extracts embedded data (such as i18n translations or key/value configurations) from TypeScript/JavaScript source code into structured JSON configuration files.
